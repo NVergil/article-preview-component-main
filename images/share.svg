@@ -1,0 +1,30 @@
+
+    <svg
+      id="e6R0dDYbcI31"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 300 300"
+      shape-rendering="geometricPrecision"
+      text-rendering="geometricPrecision"
+    >
+      <g transform="translate(.000001 0)">
+        <rect
+          width="160.356348"
+          height="40.089087"
+          rx="6"
+          ry="6"
+          transform="matrix(1.048276 0 0 1.030556 60.160498 70.657007)"
+          fill="#d2dbed"
+          stroke-width="0"
+        />
+        <rect
+          width="30"
+          height="30"
+          rx="0"
+          ry="0"
+          transform="matrix(-.705229 0.70898-.70898-.705229 165.422483 104.470902)"
+          fill="#d2dbed"
+          stroke-width="0"
+        />
+      </g>
+    </svg>
